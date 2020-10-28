@@ -1,0 +1,12 @@
+.main {background-color: aqua;}
+.head_bar {
+    background-color: greenyellow;
+}
+.slide {
+    width: auto;
+    height: 500px;
+}
+.slide img {
+    height: 100%;
+    width: 100%;
+}
