@@ -2,6 +2,9 @@
 .head_bar {
     background-color: greenyellow;
 }
+.head_bar .navbar .collapse ul li a {
+    color: rgb(0, 104, 9);
+}
 .slide {
     width: auto;
     height: 500px;
@@ -9,4 +12,29 @@
 .slide img {
     height: 100%;
     width: 100%;
+}
+.formular {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    padding: 0 10% 0 10%;
+}
+.formular .f_above {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    background-color: rgb(19, 0, 129);
+}
+footer a{
+    color: white;
+}
+footer .footer-copyright {
+    background-color: rgb(0, 0, 71);
+    height: 50px;
+    font-size: 10px;
+    line-height: 50px;
+    color: white;
 }
