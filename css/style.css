@@ -6,12 +6,11 @@
     color: rgb(0, 104, 9);
 }
 .slide {
-    width: auto;
-    height: 500px;
+    height: 400px;
 }
 .slide img {
-    height: 100%;
-    width: 100%;
+    height: 400px;
+    width: auto;
 }
 .formular {
     height: auto;
